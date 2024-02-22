@@ -1,0 +1,10 @@
+{
+  "name": "com.suncats.packages",
+  "displayName": "Base Unity Packages",
+  "version": "1.0.0",
+  "unity": "2019.2",
+  "description": "Unity is kinda bloated, so I stripped all the packages I need",
+  "dependencies": {
+    "com.unity.modules.ui": "1.0.0"
+  }
+}
